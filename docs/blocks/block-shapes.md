@@ -126,6 +126,7 @@ They are added in the resource pack's file, `blocks.json`, using child `"blocksh
 | 133 | flowering_azalea          |
 | 134 | glow_frame                |
 | 135 | glow_lichen               |
-| 136 | redstone_wire"            |
+| 136 | redstone_wire             |
+| 137 | sculk_shrieker            |
 
 [ Original Credit ](https://gist.github.com/toka7290/3bef704d2f57c775bb9ac84443a6df1c)
